@@ -1,3 +1,5 @@
+// THE WEIGHT(20KG) OF THE PASSENGER BAGS IS DEFINED IN FLIGHT MANAGER;
+
 public class Passenger {
     private String name;
     private int numberOfBags;
